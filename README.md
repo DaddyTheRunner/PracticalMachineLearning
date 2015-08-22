@@ -8,9 +8,9 @@ is a list of files along with a description:
 
 Filename        | Description
 ----------------|------------
-pml-readme.Rmd  | Source Rmd file for the README files
-pml-readme.md   | RStudio generated markdown version of README
-pml-readme.html | RStudio generated HTML version of README
+README.Rmd      | Source Rmd file for the README files
+README.md       | RStudio generated markdown version of README
+README.html     | RStudio generated HTML version of README
 pml-tools.R     | Helper functions written to perform this project
 pml-report.Rmd  | Source Rmd file for the project report
 pml-report.md   | RStudio generateed markdown version of the report
