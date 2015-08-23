@@ -1,0 +1,11 @@
+---
+title: "Practical Machine Learning Project"
+author: "Daddy The Runner"
+date: "August 22, 2015"
+output: 
+  html_document: 
+    keep_md: yes
+---
+
+If you are looking for my project report, it can be found [here](http://daddytherunner.github.io/PracticalMachineLearning/pml-report.html).
+
